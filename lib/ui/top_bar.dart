@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:file_picker/file_picker.dart';
 import 'settings_screen.dart';
-import 'package:desktop_multi_window/desktop_multi_window.dart';
 import '../app_state.dart';
 import '../document/pdf_manager.dart';
 import '../document/pdf_exporter.dart';
