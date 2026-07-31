@@ -1,11 +1,11 @@
 import 'dart:convert';
 import 'dart:io';
-import 'package:ffmpeg_kit_flutter_video/ffmpeg_kit.dart';
-import 'package:ffmpeg_kit_flutter_video/ffmpeg_session.dart';
 import 'package:path_provider/path_provider.dart';
 
+import 'package:flutter/foundation.dart';
+
 class RecorderService {
-  static FFmpegSession? _currentSession;
+  static Process? _currentProcess;
   static bool _isRecording = false;
 
   static bool get isRecording => _isRecording;
@@ -17,28 +17,44 @@ class RecorderService {
     final timestamp = DateTime.now().millisecondsSinceEpoch;
     final outputPath = '${docDir.path}\\InkGuru_Lecture_$timestamp.mp4';
 
-    String ffmpegCommand;
+    List<String> ffmpegArgs;
     if (rtmpUrl != null && rtmpUrl.isNotEmpty) {
-      ffmpegCommand = '-f gdigrab -framerate 30 -i desktop -f dshow -i audio="Microphone" '
-          '-c:v libx264 -preset ultrafast -pix_fmt yuv420p -c:a aac -b:a 128k '
-          '-f tee "[f=flv]$rtmpUrl|[f=mp4]$outputPath"';
+      ffmpegArgs = [
+        '-f', 'gdigrab', '-framerate', '30', '-i', 'desktop', 
+        '-f', 'dshow', '-i', 'audio=Microphone', 
+        '-c:v', 'libx264', '-preset', 'ultrafast', '-pix_fmt', 'yuv420p', 
+        '-c:a', 'aac', '-b:a', '128k', 
+        '-f', 'tee', '[f=flv]$rtmpUrl|[f=mp4]$outputPath'
+      ];
     } else {
-      ffmpegCommand = '-f gdigrab -framerate 30 -i desktop -f dshow -i audio="Microphone" '
-          '-c:v libx264 -preset ultrafast -pix_fmt yuv420p -c:a aac -b:a 128k "$outputPath"';
+      ffmpegArgs = [
+        '-f', 'gdigrab', '-framerate', '30', '-i', 'desktop', 
+        '-f', 'dshow', '-i', 'audio=Microphone', 
+        '-c:v', 'libx264', '-preset', 'ultrafast', '-pix_fmt', 'yuv420p', 
+        '-c:a', 'aac', '-b:a', '128k', outputPath
+      ];
     }
 
     _isRecording = true;
 
-    _currentSession = await FFmpegKit.executeAsync(ffmpegCommand, (session) async {
-      await session.getReturnCode();
+    try {
+      _currentProcess = await Process.start('ffmpeg', ffmpegArgs);
+      
+      _currentProcess!.exitCode.then((code) {
+        _isRecording = false;
+      });
+    } catch (e) {
+      debugPrint('Failed to start ffmpeg process: $e');
       _isRecording = false;
-    });
+    }
   }
 
   static Future<void> stopRecording(List<Map<String, dynamic>> markers) async {
-    if (!_isRecording || _currentSession == null) return;
+    if (!_isRecording || _currentProcess == null) return;
     
-    await FFmpegKit.cancel();
+    _currentProcess!.stdin.writeln('q');
+    await _currentProcess!.exitCode;
+    _currentProcess = null;
     _isRecording = false;
 
     if (markers.isNotEmpty) {
