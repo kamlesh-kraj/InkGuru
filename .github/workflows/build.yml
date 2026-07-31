@@ -27,7 +27,21 @@ jobs:
         run: flutter analyze --no-fatal-infos
 
       - name: Build Windows App
-        run: flutter build windows --release
+        run: flutter build windows --release -v > build_log.txt 2>&1
+        continue-on-error: true
+
+      - name: Push log to debug branch
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git checkout -b debug-logs
+          git add build_log.txt
+          git commit -m "Upload build log"
+          git push origin debug-logs --force
+
+      - name: Check Build Status
+        run: |
+          if (-Not (Test-Path "build\windows\x64\runner\Release\inkguru.exe") -and -Not (Test-Path "build\windows\runner\Release\inkguru.exe")) { Write-Error "Executable not found"; exit 1 }
 
       - name: Zip Windows Build
         run: |
