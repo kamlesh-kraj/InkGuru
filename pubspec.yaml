@@ -40,7 +40,6 @@ dependencies:
   perfect_freehand: ^2.5.2+1
   pdfx: ^2.9.2
   archive: ^4.0.9
-  ffmpeg_kit_flutter_video: ^6.0.3
   camera: ^0.12.0+2
   record: ^6.2.1
   screen_capturer: ^0.2.3
