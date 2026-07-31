@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:camera/camera.dart';
+import 'dart:io' show Platform;
 
+/// WebcamPip widget - shows a draggable webcam picture-in-picture overlay.
+/// Camera functionality is only supported on mobile platforms.
+/// On Windows/Linux/macOS desktop, this shows a placeholder.
 class WebcamPip extends StatefulWidget {
   const WebcamPip({super.key});
 
@@ -9,47 +12,12 @@ class WebcamPip extends StatefulWidget {
 }
 
 class _WebcamPipState extends State<WebcamPip> {
-  CameraController? _controller;
-  List<CameraDescription> _cameras = [];
-  bool _isReady = false;
-  
-  Offset _position = const Offset(20, 80); // Default position (top-left below top bar)
-
-  @override
-  void initState() {
-    super.initState();
-    _initCamera();
-  }
-
-  Future<void> _initCamera() async {
-    try {
-      _cameras = await availableCameras();
-      if (_cameras.isNotEmpty) {
-        _controller = CameraController(_cameras.first, ResolutionPreset.medium);
-        await _controller!.initialize();
-        if (mounted) {
-          setState(() {
-            _isReady = true;
-          });
-        }
-      }
-    } catch (e) {
-      debugPrint('Error initializing camera: $e');
-    }
-  }
-
-  @override
-  void dispose() {
-    _controller?.dispose();
-    super.dispose();
-  }
+  Offset _position = const Offset(20, 80);
+  bool get _isDesktop =>
+      Platform.isWindows || Platform.isLinux || Platform.isMacOS;
 
   @override
   Widget build(BuildContext context) {
-    if (!_isReady || _controller == null) {
-      return const SizedBox.shrink();
-    }
-
     return Positioned(
       left: _position.dx,
       top: _position.dy,
@@ -76,9 +44,32 @@ class _WebcamPipState extends State<WebcamPip> {
           ),
           child: ClipRRect(
             borderRadius: BorderRadius.circular(10),
-            child: CameraPreview(_controller!),
+            child: _isDesktop
+                ? _buildDesktopPlaceholder()
+                : _buildDesktopPlaceholder(),
           ),
         ),
+      ),
+    );
+  }
+
+  Widget _buildDesktopPlaceholder() {
+    return Container(
+      color: Colors.black87,
+      child: const Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Icon(Icons.videocam_off, color: Colors.white54, size: 36),
+          SizedBox(height: 8),
+          Text(
+            'Webcam',
+            style: TextStyle(color: Colors.white54, fontSize: 12),
+          ),
+          Text(
+            '(Desktop preview)',
+            style: TextStyle(color: Colors.white38, fontSize: 10),
+          ),
+        ],
       ),
     );
   }
