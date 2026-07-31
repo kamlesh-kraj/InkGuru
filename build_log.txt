@@ -1,0 +1,839 @@
+[  +18 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[   +5 ms] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[  +12 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +2 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +41 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[  +11 ms] Skipping pub get: version match.
+[  +62 ms] Found plugin shared_preferences at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +6 ms] Found plugin shared_preferences_windows at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +5 ms] Found plugin path_provider_windows at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +6 ms] Found plugin shared_preferences_web at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +3 ms] Found plugin shared_preferences_linux at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +2 ms] Found plugin path_provider_linux at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.2\
+[   +2 ms] Found plugin shared_preferences_foundation at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +3 ms] Found plugin shared_preferences_android at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.23\
+[   +2 ms] Found plugin record at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record-6.2.1\
+[   +1 ms] Found plugin record_windows at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_windows-1.0.7\
+[   +2 ms] Found plugin record_web at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_web-1.3.0\
+[   +1 ms] Found plugin record_macos at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_macos-1.2.2\
+[   +2 ms] Found plugin record_linux at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_linux-1.3.1\
+[   +1 ms] Found plugin record_ios at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_ios-1.2.1\
+[   +1 ms] Found plugin record_android at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_android-1.5.2\
+[   +5 ms] Found plugin pdfx at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\pdfx-2.9.2\
+[  +19 ms] Found plugin path_provider at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.6\
+[   +2 ms] Found plugin path_provider_foundation at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[   +9 ms] Found plugin path_provider_android at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.23\
+[  +12 ms] Found plugin file_picker at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-11.0.2\
+[   +5 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.35\
+[  +59 ms] Found plugin shared_preferences at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +2 ms] Found plugin shared_preferences_windows at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +5 ms] Found plugin path_provider_windows at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +6 ms] Found plugin shared_preferences_web at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +3 ms] Found plugin shared_preferences_linux at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +1 ms] Found plugin path_provider_linux at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.2\
+[   +2 ms] Found plugin shared_preferences_foundation at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +1 ms] Found plugin shared_preferences_android at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.23\
+[   +1 ms] Found plugin record at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record-6.2.1\
+[   +1 ms] Found plugin record_windows at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_windows-1.0.7\
+[   +2 ms] Found plugin record_web at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_web-1.3.0\
+[   +1 ms] Found plugin record_macos at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_macos-1.2.2\
+[   +1 ms] Found plugin record_linux at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_linux-1.3.1\
+[   +1 ms] Found plugin record_ios at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_ios-1.2.1\
+[   +1 ms] Found plugin record_android at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_android-1.5.2\
+[   +4 ms] Found plugin pdfx at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\pdfx-2.9.2\
+[  +17 ms] Found plugin path_provider at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.6\
+[   +1 ms] Found plugin path_provider_foundation at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[   +8 ms] Found plugin path_provider_android at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.23\
+[  +12 ms] Found plugin file_picker at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-11.0.2\
+[   +2 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.35\
+[  +13 ms] Skipping generating web_plugin_registrant.dart because it is up-to-date.
+[  +25 ms] Found plugin shared_preferences at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +1 ms] Found plugin shared_preferences_windows at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +3 ms] Found plugin path_provider_windows at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +3 ms] Found plugin shared_preferences_web at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +2 ms] Found plugin shared_preferences_linux at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +1 ms] Found plugin path_provider_linux at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.2\
+[   +1 ms] Found plugin shared_preferences_foundation at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +1 ms] Found plugin shared_preferences_android at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.23\
+[   +1 ms] Found plugin record at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record-6.2.1\
+[   +1 ms] Found plugin record_windows at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_windows-1.0.7\
+[   +1 ms] Found plugin record_web at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_web-1.3.0\
+[   +1 ms] Found plugin record_macos at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_macos-1.2.2\
+[        ] Found plugin record_linux at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_linux-1.3.1\
+[   +1 ms] Found plugin record_ios at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_ios-1.2.1\
+[        ] Found plugin record_android at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_android-1.5.2\
+[   +2 ms] Found plugin pdfx at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\pdfx-2.9.2\
+[  +13 ms] Found plugin path_provider at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.6\
+[   +1 ms] Found plugin path_provider_foundation at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[   +6 ms] Found plugin path_provider_android at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.23\
+[   +8 ms] Found plugin file_picker at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-11.0.2\
+[   +2 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.35\
+[   +5 ms] Generating D:\a\InkGuru\InkGuru\android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.java because it is up-to-date.
+[   +4 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +2 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +2 ms] Skipping generating GeneratedPluginRegistrant.h because it is up-to-date.
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.m because it is up-to-date.
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.swift because it is up-to-date.
+[  +32 ms] executing: C:\Program Files (x86)\Microsoft Visual Studio\Installer\vswhere.exe -format json -products * -utf8 -latest -version 16 -requires Microsoft.VisualStudio.Workload.NativeDesktop Microsoft.VisualStudio.Component.VC.Tools.x86.x64 Microsoft.VisualStudio.Component.VC.CMake.Project
+[+1311 ms] Exit code 0 from: C:\Program Files (x86)\Microsoft Visual Studio\Installer\vswhere.exe -format json -products * -utf8 -latest -version 16 -requires Microsoft.VisualStudio.Workload.NativeDesktop Microsoft.VisualStudio.Component.VC.Tools.x86.x64 Microsoft.VisualStudio.Component.VC.CMake.Project
+[   +1 ms] [
+             {
+               "instanceId": "a4357766",
+               "installDate": "2026-07-28T22:32:08Z",
+               "installationName": "VisualStudio/18.8.2+12023.21",
+               "installationPath": "C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise",
+               "installationVersion": "18.8.12023.21",
+               "productId": "Microsoft.VisualStudio.Product.Enterprise",
+               "productPath": "C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\Common7\\IDE\\devenv.exe",
+               "state": 4294967295,
+               "isComplete": true,
+               "isLaunchable": true,
+               "isPrerelease": false,
+               "isRebootRequired": false,
+               "displayName": "Visual Studio Enterprise 2026",
+               "description": "Built for scale, security, and speed – the IDE for complex, high-impact development.",
+               "channelId": "VisualStudio.18.Release",
+               "channelUri": "https://aka.ms/vs/18/stable/channel",
+               "enginePath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\resources\\app\\ServiceHub\\Services\\Microsoft.VisualStudio.Setup.Service",
+               "expirationDate": "2027-01-19T17:00:00+00:00",
+               "installChannelUri": "https://aka.ms/vs/18/stable/channel",
+               "installedChannelId": "VisualStudio.18.Release",
+               "installedChannelUri": "https://aka.ms/vs/18/stable/channel",
+               "releaseNotes": "https://docs.microsoft.com/en-us/visualstudio/releases/18/release-notes-v18.8#18.8.2",
+               "resolvedInstallationPath": "C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise",
+               "thirdPartyNotices": "https://go.microsoft.com/fwlink/?LinkId=661480",
+               "updateDate": "2026-07-28T22:32:08.2006607Z",
+               "catalog": {
+                 "buildBranch": "stable",
+                 "buildVersion": "18.8.12023.21",
+                 "featureReleaseMonth": "07",
+                 "featureReleaseYear": "2026",
+                 "id": "VisualStudio/18.8.2+12023.21",
+                 "includeBuildVersionInDisplayVersion": "False",
+                 "localBuild": "build-lab",
+                 "manifestName": "VisualStudio",
+                 "manifestType": "installer",
+                 "productDisplayVersion": "18.8.2",
+                 "productLine": "Dev18",
+                 "productLineVersion": "18",
+                 "productMilestone": "RTW",
+                 "productMilestoneIsPreRelease": "False",
+                 "productName": "Visual Studio",
+                 "productPatchVersion": "2",
+                 "productPreReleaseMilestoneSuffix": "1.0",
+                 "productRelease": "RTW",
+                 "productSemanticVersion": "18.8.2+12023.21",
+                 "requiredEngineVersion": "4.8.60.55523"
+               },
+               "properties": {
+                 "campaignId": "",
+                 "channelManifestId": "VisualStudio.18.Release/18.8.2+12023.21",
+                 "includeRecommended": "1",
+                 "nickname": "",
+                 "setupEngineFilePath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe"
+               }
+             }
+           ]
+[  +56 ms] Building Windows application...
+[   +3 ms] executing: C:\Program Files\Microsoft Visual Studio\18\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -S D:\a\InkGuru\InkGuru\windows -B D:\a\InkGuru\InkGuru\build\windows\x64 -G Visual Studio 18 2026 -A x64 -DFLUTTER_TARGET_PLATFORM=windows-x64
+[+50724 ms] -- The CXX compiler identification is MSVC 19.51.36252.0
+[+1410 ms] -- Detecting CXX compiler ABI info
+[+4305 ms] -- Detecting CXX compiler ABI info - done
+[ +111 ms] -- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/cl.exe - skipped
+[ +101 ms] -- Detecting CXX compile features
+[  +27 ms] -- Detecting CXX compile features - done
+[ +381 ms] -- Downloading/updating pdfium
+[ +688 ms] -- Configuring done (0.7s)
+[  +50 ms] -- Generating done (0.0s)
+[        ] -- Build files have been written to: D:/a/InkGuru/InkGuru/build/windows/x64/pdfium-download
+[ +206 ms] MSBuild version 18.8.2+ce25c0108 for .NET Framework
+[ +394 ms]   1>Checking Build System
+[ +220 ms]   Creating directories for 'pdfium-download'
+[  +49 ms]   Building Custom Rule D:/a/InkGuru/InkGuru/build/windows/x64/pdfium-download/CMakeLists.txt
+[  +28 ms]   Performing download step (download, verify and extract) for 'pdfium-download'
+[  +21 ms]   -- Downloading...
+[        ]      dst='D:/a/InkGuru/InkGuru/build/windows/x64/pdfium-download/pdfium-download-prefix/src/pdfium-win-x64.tgz'
+[        ]      timeout='none'
+[        ]      inactivity timeout='none'
+[        ]   -- Using src='https://github.com/bblanchon/pdfium-binaries/releases/download/chromium/4690/pdfium-win-x64.tgz'
+[ +609 ms]   -- [download 1% complete]
+[   +4 ms]   -- [download 2% complete]
+[   +1 ms]   -- [download 3% complete]
+[        ]   -- [download 4% complete]
+[   +3 ms]   -- [download 5% complete]
+[        ]   -- [download 6% complete]
+[   +1 ms]   -- [download 7% complete]
+[        ]   -- [download 8% complete]
+[   +2 ms]   -- [download 9% complete]
+[        ]   -- [download 10% complete]
+[        ]   -- [download 11% complete]
+[   +1 ms]   -- [download 12% complete]
+[        ]   -- [download 13% complete]
+[   +1 ms]   -- [download 14% complete]
+[        ]   -- [download 15% complete]
+[        ]   -- [download 16% complete]
+[        ]   -- [download 17% complete]
+[   +1 ms]   -- [download 18% complete]
+[        ]   -- [download 19% complete]
+[   +1 ms]   -- [download 20% complete]
+[        ]   -- [download 21% complete]
+[        ]   -- [download 22% complete]
+[        ]   -- [download 23% complete]
+[        ]   -- [download 24% complete]
+[        ]   -- [download 25% complete]
+[        ]   -- [download 26% complete]
+[        ]   -- [download 27% complete]
+[        ]   -- [download 28% complete]
+[        ]   -- [download 29% complete]
+[        ]   -- [download 30% complete]
+[        ]   -- [download 31% complete]
+[        ]   -- [download 32% complete]
+[        ]   -- [download 33% complete]
+[        ]   -- [download 34% complete]
+[        ]   -- [download 35% complete]
+[        ]   -- [download 36% complete]
+[        ]   -- [download 37% complete]
+[        ]   -- [download 38% complete]
+[        ]   -- [download 39% complete]
+[        ]   -- [download 40% complete]
+[        ]   -- [download 41% complete]
+[        ]   -- [download 42% complete]
+[        ]   -- [download 43% complete]
+[        ]   -- [download 44% complete]
+[        ]   -- [download 45% complete]
+[        ]   -- [download 46% complete]
+[        ]   -- [download 47% complete]
+[        ]   -- [download 48% complete]
+[        ]   -- [download 49% complete]
+[        ]   -- [download 50% complete]
+[        ]   -- [download 51% complete]
+[        ]   -- [download 52% complete]
+[        ]   -- [download 53% complete]
+[        ]   -- [download 54% complete]
+[        ]   -- [download 55% complete]
+[        ]   -- [download 56% complete]
+[        ]   -- [download 57% complete]
+[        ]   -- [download 58% complete]
+[        ]   -- [download 59% complete]
+[        ]   -- [download 60% complete]
+[        ]   -- [download 61% complete]
+[        ]   -- [download 62% complete]
+[        ]   -- [download 63% complete]
+[        ]   -- [download 64% complete]
+[        ]   -- [download 65% complete]
+[        ]   -- [download 66% complete]
+[        ]   -- [download 67% complete]
+[        ]   -- [download 68% complete]
+[        ]   -- [download 69% complete]
+[        ]   -- [download 70% complete]
+[        ]   -- [download 71% complete]
+[        ]   -- [download 72% complete]
+[        ]   -- [download 73% complete]
+[        ]   -- [download 74% complete]
+[        ]   -- [download 75% complete]
+[        ]   -- [download 76% complete]
+[        ]   -- [download 77% complete]
+[        ]   -- [download 78% complete]
+[        ]   -- [download 79% complete]
+[        ]   -- [download 80% complete]
+[        ]   -- [download 81% complete]
+[        ]   -- [download 82% complete]
+[        ]   -- [download 83% complete]
+[        ]   -- [download 84% complete]
+[        ]   -- [download 85% complete]
+[        ]   -- [download 86% complete]
+[        ]   -- [download 87% complete]
+[        ]   -- [download 88% complete]
+[        ]   -- [download 89% complete]
+[        ]   -- [download 90% complete]
+[        ]   -- [download 91% complete]
+[        ]   -- [download 92% complete]
+[        ]   -- [download 93% complete]
+[        ]   -- [download 94% complete]
+[        ]   -- [download 95% complete]
+[        ]   -- [download 96% complete]
+[        ]   -- [download 97% complete]
+[        ]   -- [download 98% complete]
+[        ]   -- [download 99% complete]
+[        ]   -- [download 100% complete]
+[        ]   -- Downloading... done
+[  +29 ms]   -- extracting...
+[        ]        src='D:/a/InkGuru/InkGuru/build/windows/x64/pdfium-download/pdfium-download-prefix/src/pdfium-win-x64.tgz'
+[        ]        dst='D:/a/InkGuru/InkGuru/build/windows/x64/pdfium-src'
+[        ]   -- extracting... [tar xf]
+[ +414 ms]   -- extracting... [analysis]
+[        ]   -- extracting... [rename]
+[        ]   -- extracting... [clean up]
+[        ]   -- extracting... done
+[  +30 ms]   No update step for 'pdfium-download'
+[  +47 ms]   No patch step for 'pdfium-download'
+[  +47 ms]   No configure step for 'pdfium-download'
+[  +48 ms]   No build step for 'pdfium-download'
+[  +53 ms]   No install step for 'pdfium-download'
+[  +50 ms]   No test step for 'pdfium-download'
+[  +51 ms]   Completed 'pdfium-download'
+[ +153 ms]   Building Custom Rule D:/a/InkGuru/InkGuru/build/windows/x64/pdfium-download/CMakeLists.txt
+[ +287 ms] -- Found PDFium: D:/a/InkGuru/InkGuru/build/windows/x64/pdfium-src/x64/bin/pdfium.dll
+[  +29 ms] -- Configuring done (57.4s)
+[ +184 ms] -- Generating done (0.2s)
+[   +1 ms] -- Build files have been written to: D:/a/InkGuru/InkGuru/build/windows/x64
+[  +13 ms] executing: C:\Program Files\Microsoft Visual Studio\18\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe --build D:\a\InkGuru\InkGuru\build\windows\x64 --config Release --target INSTALL --verbose
+[  +53 ms] Change Dir: 'D:/a/InkGuru/InkGuru/build/windows/x64'
+[        ] Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe" INSTALL.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+[  +78 ms] MSBuild version 18.8.2+ce25c0108 for .NET Framework
+[  +36 ms] Build started 7/31/2026 1:32:16 PM.
+[ +184 ms] Project "D:\a\InkGuru\InkGuru\build\windows\x64\INSTALL.vcxproj" on node 1 (default targets).
+[        ] Project "D:\a\InkGuru\InkGuru\build\windows\x64\INSTALL.vcxproj" (1) is building "D:\a\InkGuru\InkGuru\build\windows\x64\ZERO_CHECK.vcxproj" (2) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Creating directory "x64\Release\ZERO_CHECK\".
+[   +4 ms]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[   +1 ms]   Creating directory "x64\Release\ZERO_CHECK\ZERO_CHECK.tlog\".
+[   +2 ms] InitializeBuildStatus:
+[        ]   Creating "x64\Release\ZERO_CHECK\ZERO_CHECK.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "x64\Release\ZERO_CHECK\ZERO_CHECK.tlog\unsuccessfulbuild".
+[  +85 ms] CustomBuild:
+[        ]   1>Checking Build System
+[  +72 ms] FinalizeBuildStatus:
+[        ]   Deleting file "x64\Release\ZERO_CHECK\ZERO_CHECK.tlog\unsuccessfulbuild".
+[        ]   Touching "x64\Release\ZERO_CHECK\ZERO_CHECK.tlog\ZERO_CHECK.lastbuildstate".
+[   +6 ms] Done Building Project "D:\a\InkGuru\InkGuru\build\windows\x64\ZERO_CHECK.vcxproj" (default targets).
+[ +127 ms] Project "D:\a\InkGuru\InkGuru\build\windows\x64\INSTALL.vcxproj" (1) is building "D:\a\InkGuru\InkGuru\build\windows\x64\ALL_BUILD.vcxproj" (3) on node 1 (default targets).
+[        ] Project "D:\a\InkGuru\InkGuru\build\windows\x64\ALL_BUILD.vcxproj" (3) is building "D:\a\InkGuru\InkGuru\build\windows\x64\flutter\flutter_wrapper_app.vcxproj" (4) on node 1 (default targets).
+[        ] Project "D:\a\InkGuru\InkGuru\build\windows\x64\flutter\flutter_wrapper_app.vcxproj" (4) is building "D:\a\InkGuru\InkGuru\build\windows\x64\flutter\flutter_assemble.vcxproj" (5) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Creating directory "x64\Release\flutter_assemble\".
+[   +2 ms]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "x64\Release\flutter_assemble\flutter_assemble.tlog\".
+[        ] InitializeBuildStatus:
+[        ]   Creating "x64\Release\flutter_assemble\flutter_assemble.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "x64\Release\flutter_assemble\flutter_assemble.tlog\unsuccessfulbuild".
+[  +13 ms] ComputeCustomBuildOutput:
+[        ]   Creating directory "D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\cpp_client_wrapper\".
+[        ] CustomBuild:
+[        ]   "The build of 'D:\a\InkGuru\InkGuru\build\windows\x64\CMakeFiles\dcec5c98f9b6d77c804f96bd2611d3da\flutter_assemble.rule' depends on 'D:\A\INKGURU\INKGURU\WINDOWS\FLUTTER\EPHEMERAL\FLUTTER_WINDOWS.DLL' which is produced by the build of 'D:\a\InkGuru\InkGuru\build\windows\x64\CMakeFiles\c3cc3fa4deb20d375b7e7c1599be7f23\flutter_windows.dll.rule'. The items cannot be built in parallel."
+[  +25 ms]   Generating D:/a/InkGuru/InkGuru/windows/flutter/ephemeral/flutter_windows.dll, D:/a/InkGuru/InkGuru/windows/flutter/ephemeral/flutter_export.h, D:/a/InkGuru/InkGuru/windows/flutter/ephemeral/flutter_windows.h, D:/a/InkGuru/InkGuru/windows/flutter/ephemeral/flutter_messenger.h, D:/a/InkGuru/InkGuru/windows/flutter/ephemeral/flutter_plugin_registrar.h, D:/a/InkGuru/InkGuru/windows/flutter/ephemeral/flutter_texture_registrar.h, D:/a/InkGuru/InkGuru/windows/flutter/ephemeral/cpp_client_wrapper/core_implementations.cc, D:/a/InkGuru/InkGuru/windows/flutter/ephemeral/cpp_client_wrapper/standard_codec.cc, D:/a/InkGuru/InkGuru/windows/flutter/ephemeral/cpp_client_wrapper/plugin_registrar.cc, D:/a/InkGuru/InkGuru/windows/flutter/ephemeral/cpp_client_wrapper/flutter_engine.cc, D:/a/InkGuru/InkGuru/windows/flutter/ephemeral/cpp_client_wrapper/flutter_view_controller.cc, _phony_
+[+3478 ms]   [  +19 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[   +1 ms]   [   +4 ms] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[        ]   [  +12 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[   +1 ms]   [        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ]   [   +2 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +56 ms]   [  +59 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ]   [   +1 ms] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[   +7 ms]   [  +14 ms] Initializing file store
+[  +26 ms]   [  +26 ms] dart_build: Starting due to {}
+[   +1 ms]   [   +2 ms] gen_localizations: Starting due to {}
+[  +97 ms]   [  +97 ms] gen_dart_plugin_registrant: Starting due to {InvalidatedReasonKind.inputChanged: The following inputs have updated contents: D:\a\InkGuru\InkGuru\.dart_tool\package_config.json}
+[   +2 ms]   [   +3 ms] unpack_windows: Starting due to {}
+[ +154 ms]   [ +153 ms] unpack_windows: Complete
+[+3010 ms]   [+3010 ms] gen_localizations: Complete
+[  +20 ms]   [  +19 ms] executing: C:\Program Files (x86)\Microsoft Visual Studio\Installer\vswhere.exe -format json -products * -utf8 -latest -version 16 -requires Microsoft.VisualStudio.Workload.NativeDesktop Microsoft.VisualStudio.Component.VC.Tools.x86.x64 Microsoft.VisualStudio.Component.VC.CMake.Project
+[  +55 ms]   [  +55 ms] Exit code 0 from: C:\Program Files (x86)\Microsoft Visual Studio\Installer\vswhere.exe -format json -products * -utf8 -latest -version 16 -requires Microsoft.VisualStudio.Workload.NativeDesktop Microsoft.VisualStudio.Component.VC.Tools.x86.x64 Microsoft.VisualStudio.Component.VC.CMake.Project
+[   +2 ms]   [        ] [
+[   +1 ms]                {
+[        ]                  "instanceId": "a4357766",
+[        ]                  "installDate": "2026-07-28T22:32:08Z",
+[        ]                  "installationName": "VisualStudio/18.8.2+12023.21",
+[        ]                  "installationPath": "C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise",
+[        ]                  "installationVersion": "18.8.12023.21",
+[        ]                  "productId": "Microsoft.VisualStudio.Product.Enterprise",
+[        ]                  "productPath": "C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\Common7\\IDE\\devenv.exe",
+[        ]                  "state": 4294967295,
+[        ]                  "isComplete": true,
+[        ]                  "isLaunchable": true,
+[        ]                  "isPrerelease": false,
+[        ]                  "isRebootRequired": false,
+[        ]                  "displayName": "Visual Studio Enterprise 2026",
+[        ]                  "description": "Built for scale, security, and speed – the IDE for complex, high-impact development.",
+[        ]                  "channelId": "VisualStudio.18.Release",
+[        ]                  "channelUri": "https://aka.ms/vs/18/stable/channel",
+[        ]                  "enginePath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\resources\\app\\ServiceHub\\Services\\Microsoft.VisualStudio.Setup.Service",
+[        ]                  "expirationDate": "2027-01-19T17:00:00+00:00",
+[        ]                  "installChannelUri": "https://aka.ms/vs/18/stable/channel",
+[        ]                  "installedChannelId": "VisualStudio.18.Release",
+[        ]                  "installedChannelUri": "https://aka.ms/vs/18/stable/channel",
+[        ]                  "releaseNotes": "https://docs.microsoft.com/en-us/visualstudio/releases/18/release-notes-v18.8#18.8.2",
+[        ]                  "resolvedInstallationPath": "C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise",
+[        ]                  "thirdPartyNotices": "https://go.microsoft.com/fwlink/?LinkId=661480",
+[        ]                  "updateDate": "2026-07-28T22:32:08.2006607Z",
+[        ]                  "catalog": {
+[        ]                    "buildBranch": "stable",
+[        ]                    "buildVersion": "18.8.12023.21",
+[        ]                    "featureReleaseMonth": "07",
+[        ]                    "featureReleaseYear": "2026",
+[        ]                    "id": "VisualStudio/18.8.2+12023.21",
+[        ]                    "includeBuildVersionInDisplayVersion": "False",
+[        ]                    "localBuild": "build-lab",
+[        ]                    "manifestName": "VisualStudio",
+[        ]                    "manifestType": "installer",
+[        ]                    "productDisplayVersion": "18.8.2",
+[        ]                    "productLine": "Dev18",
+[        ]                    "productLineVersion": "18",
+[        ]                    "productMilestone": "RTW",
+[        ]                    "productMilestoneIsPreRelease": "False",
+[        ]                    "productName": "Visual Studio",
+[        ]                    "productPatchVersion": "2",
+[        ]                    "productPreReleaseMilestoneSuffix": "1.0",
+[        ]                    "productRelease": "RTW",
+[        ]                    "productSemanticVersion": "18.8.2+12023.21",
+[        ]                    "requiredEngineVersion": "4.8.60.55523"
+[        ]                  },
+[        ]                  "properties": {
+[        ]                    "campaignId": "",
+[        ]                    "channelManifestId": "VisualStudio.18.Release/18.8.2+12023.21",
+[        ]                    "includeRecommended": "1",
+[        ]                    "nickname": "",
+[        ]                    "setupEngineFilePath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe"
+[        ]                  }
+[        ]                }
+[        ]              ]
+[        ]   [   +8 ms] Building native assets for windows_x64.
+[  +23 ms]   [  +38 ms] Found plugin shared_preferences at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +4 ms]   [   +4 ms] Found plugin shared_preferences_windows at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[  +51 ms]   [  +51 ms] Found plugin path_provider_windows at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[  +10 ms]   [  +10 ms] Running `C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\bin\cache\dart-sdk\bin\dart compile kernel --packages=D:\a\InkGuru\InkGuru\.dart_tool\package_config.json --output=D:\a\InkGuru\InkGuru\.dart_tool\hooks_runner\objective_c\7b01651218\hook.dill --depfile=D:\a\InkGuru\InkGuru\.dart_tool\hooks_runner\objective_c\7b01651218\hook.dill.d C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\objective_c-9.5.0\hook\build.dart`.
+[   +9 ms]   [   +9 ms] Found plugin shared_preferences_web at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +5 ms]   [   +5 ms] Found plugin shared_preferences_linux at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +3 ms]   [   +3 ms] Found plugin path_provider_linux at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.2\
+[   +3 ms]   [   +3 ms] Found plugin shared_preferences_foundation at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +3 ms]   [   +3 ms] Found plugin shared_preferences_android at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.23\
+[   +2 ms]   [   +2 ms] Found plugin record at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record-6.2.1\
+[   +1 ms]   [   +2 ms] Found plugin record_windows at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_windows-1.0.7\
+[   +3 ms]   [   +3 ms] Found plugin record_web at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_web-1.3.0\
+[   +1 ms]   [   +1 ms] Found plugin record_macos at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_macos-1.2.2\
+[   +1 ms]   [   +1 ms] Found plugin record_linux at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_linux-1.3.1\
+[   +1 ms]   [   +1 ms] Found plugin record_ios at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_ios-1.2.1\
+[   +1 ms]   [   +1 ms] Found plugin record_android at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\record_android-1.5.2\
+[   +5 ms]   [   +5 ms] Found plugin pdfx at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\pdfx-2.9.2\
+[  +26 ms]   [  +26 ms] Found plugin path_provider at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.6\
+[   +1 ms]   [   +1 ms] Found plugin path_provider_foundation at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[   +8 ms]   [   +8 ms] Found plugin path_provider_android at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.23\
+[  +16 ms]   [  +15 ms] Found plugin file_picker at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-11.0.2\
+[   +6 ms]   [   +6 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.35\
+[  +22 ms]   [  +22 ms] gen_dart_plugin_registrant: Complete
+[   +4 ms]   [   +4 ms] kernel_snapshot_program: Starting due to {}
+[  +11 ms]   [  +11 ms] C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\bin\cache\dart-sdk\bin\dartaotruntime.exe C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\bin\cache\dart-sdk\bin\snapshots\frontend_server_aot.dart.snapshot --sdk-root C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\bin\cache\artifacts\engine\common\flutter_patched_sdk_product/ --target=flutter --no-print-incremental-dependencies -DFLUTTER_VERSION=3.44.8 -DFLUTTER_CHANNEL=stable -DFLUTTER_GIT_URL=https://github.com/flutter/flutter.git -DFLUTTER_FRAMEWORK_REVISION=058e0af2c2 -DFLUTTER_ENGINE_REVISION=0cd610717b -DFLUTTER_DART_VERSION=3.12.2 -Ddart.vm.profile=false -Ddart.vm.product=true --delete-tostring-package-uri=dart:ui --delete-tostring-package-uri=package:flutter --aot --tfa --target-os windows --packages D:\a\InkGuru\InkGuru\.dart_tool\package_config.json --output-dill D:\a\InkGuru\InkGuru\.dart_tool\flutter_build\2d6dad7d14a3dc74ac13a44de38234f1\app.dill --depfile D:\a\InkGuru\InkGuru\.dart_tool\flutter_build\2d6dad7d14a3dc74ac13a44de38234f1\kernel_snapshot_program.d --source file:///D:/a/InkGuru/InkGuru/.dart_tool/flutter_build/dart_plugin_registrant.dart --source package:flutter/src/dart_plugin_registrant.dart -Dflutter.dart_plugin_registrant=file:///D:/a/InkGuru/InkGuru/.dart_tool/flutter_build/dart_plugin_registrant.dart --verbosity=error package:inkguru/main.dart
+[ +850 ms]   [ +850 ms] input.json contents:
+[        ]              {
+[        ]                "assets": {},
+[        ]                "config": {
+[        ]                  "build_asset_types": [
+[        ]                    "code_assets/code"
+[        ]                  ],
+[        ]                  "extensions": {
+[        ]                    "code_assets": {
+[        ]                      "c_compiler": {
+[        ]                        "ar": "C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\lib.exe",
+[        ]                        "cc": "C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+[        ]                        "ld": "C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\link.exe",
+[        ]                        "windows": {
+[        ]                          "developer_command_prompt": {
+[        ]                            "arguments": [],
+[        ]                            "script": "C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Auxiliary\\Build\\vcvars64.bat"
+[        ]                          }
+[        ]                        }
+[        ]                      },
+[        ]                      "link_mode_preference": "dynamic",
+[        ]                      "target_architecture": "x64",
+[        ]                      "target_os": "windows"
+[        ]                    }
+[        ]                  },
+[        ]                  "linking_enabled": true
+[        ]                },
+[        ]                "out_dir_shared": "D:\\a\\InkGuru\\InkGuru\\.dart_tool\\hooks_runner\\shared\\objective_c\\build\\",
+[        ]                "out_file": "D:\\a\\InkGuru\\InkGuru\\.dart_tool\\hooks_runner\\objective_c\\7b01651218\\output.json",
+[        ]                "package_name": "objective_c",
+[        ]                "package_root": "C:\\Users\\runneradmin\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\objective_c-9.5.0\\",
+[        ]                "user_defines": {}
+[        ]              }
+[        ]   [   +6 ms] Running `(cd C:\Users\runneradmin\AppData\Local\Pub\Cache\hosted\pub.dev\objective_c-9.5.0\; ANDROID_HOME=C:\Android\android-sdk ANDROID_NDK=C:\Android\android-sdk\ndk\27.3.13750724 ANDROID_NDK_HOME=C:\Android\android-sdk\ndk\27.3.13750724 ANDROID_NDK_LATEST_HOME=C:\Android\android-sdk\ndk\29.0.14206865 ANDROID_NDK_ROOT=C:\Android\android-sdk\ndk\27.3.13750724 PATH=C:\Program Files\Microsoft Visual Studio\18\Enterprise\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64;C:\Program Files (x86)\Windows Kits\10\bin\10.0.26100.0\x64;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8.1 Tools\x64;C:\Program Files (x86)\Windows Kits\10\bin\10.0.26100.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8.1 Tools;C:\Program Files\Microsoft Visual Studio\18\Enterprise\Common7\tools;C:\Program Files\Microsoft Visual Studio\18\Enterprise\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files\Microsoft Visual Studio\18\Enterprise\MSBuild\Current\Bin\amd64;C:\Windows\Microsoft.NET\Framework64\v4.0.30319\;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;C:\Program Files\Microsoft Visual Studio\18\Enterprise\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;;C:\Program Files\PowerShell\7;C:\Users\runneradmin\AppData\Local\Pub\Cache/bin;C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64/flutter/bin/cache/dart-sdk/bin;C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64/flutter/bin;C:\Program Files\MongoDB\Server\7.0\bin;C:\vcpkg;C:\tools\zstd;C:\hostedtoolcache\windows\stack\3.11.1\x64;C:\cabal\bin;C:\\ghcup\bin;C:\mingw64\bin;C:\Program Files\dotnet;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\R\R-4.6.1\bin\x64;C:\SeleniumWebDrivers\GeckoDriver;C:\SeleniumWebDrivers\EdgeDriver\;C:\SeleniumWebDrivers\ChromeDriver;C:\Program Files (x86)\sbt\bin;C:\Program Files (x86)\GitHub CLI;C:\Program Files\Git\bin;C:\Program Files (x86)\pipx_bin;C:\npm\prefix;C:\hostedtoolcache\windows\go\1.24.13\x64\bin;C:\hostedtoolcache\windows\Python\3.12.10\x64\Scripts;C:\hostedtoolcache\windows\Python\3.12.10\x64;C:\hostedtoolcache\windows\Ruby\3.3.12\x64\bin;C:\Program Files\OpenSSL\bin;C:\tools\kotlinc\bin;C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.19-10\x64\bin;C:\Program Files\ImageMagick-7.1.2-Q16-HDRI;C:\Program Files\Microsoft SDKs\Azure\CLI2\wbin;C:\ProgramData\kind;C:\ProgramData\Chocolatey\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\PowerShell\7\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Microsoft SQL Server\170\DTS\Binn\;C:\ProgramData\chocolatey\lib\pulumi\tools\Pulumi\bin;C:\Program Files\CMake\bin;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.16\bin;C:\Program Files\Microsoft Service Fabric\bin\Fabric\Fabric.Code;C:\Program Files\Microsoft SDKs\Service Fabric\Tools\ServiceFabricLocalClusterManager;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\GitHub CLI\;c:\tools\php;C:\Program Files (x86)\sbt\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Amazon\SessionManagerPlugin\bin\;C:\Program Files\Amazon\AWSSAMCLI\bin\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\mongosh\;C:\Program Files\LLVM\bin;C:\Program Files (x86)\LLVM\bin;C:\Users\runneradmin\.dotnet\tools;C:\Users\runneradmin\.cargo\bin;C:\Users\runneradmin\AppData\Local\Microsoft\WindowsApps;C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\bin\mingit\cmd;;C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\bin\mingit\cmd PROGRAMDATA=C:\ProgramData SYSTEMDRIVE=C: SYSTEMROOT=C:\Windows TEMP=C:\Users\RUNNER~1\AppData\Local\Temp TMP=C:\Users\RUNNER~1\AppData\Local\Temp USERPROFILE=C:\Users\runneradmin WINDIR=C:\Windows C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\bin\cache\dart-sdk\bin\dart --packages=D:\a\InkGuru\InkGuru\.dart_tool\package_config.json D:\a\InkGuru\InkGuru\.dart_tool\hooks_runner\objective_c\7b01651218\hook.dill --config=D:\a\InkGuru\InkGuru\.dart_tool\hooks_runner\objective_c\7b01651218\input.json )`.
+[ +278 ms]   [ +285 ms] output.json contents:
+[        ]              {
+[        ]                "assets_for_linking": {},
+[        ]                "status": "success",
+[        ]                "timestamp": "2026-07-31 13:32:25.000"
+[        ]              }
+[  +34 ms]   [  +36 ms] Building native assets for windows_x64 done.
+[   +3 ms]   [   +3 ms] dart_build: Complete
+[   +4 ms]   [   +4 ms] install_code_assets: Starting due to {}
+[  +13 ms]   [  +12 ms] Writing native assets json to file:///D:/a/InkGuru/InkGuru/.dart_tool/flutter_build/2d6dad7d14a3dc74ac13a44de38234f1/native_assets.json.
+[   +1 ms]   [   +2 ms] Writing D:\a\InkGuru\InkGuru\.dart_tool\flutter_build\2d6dad7d14a3dc74ac13a44de38234f1\native_assets.json done.
+[   +1 ms]   [        ] install_code_assets: Complete
+[+20452 ms]   [+20452 ms] kernel_snapshot_program: Complete
+[ +960 ms]   [ +960 ms] aot_elf_release: Starting due to {InvalidatedReasonKind.inputChanged: The following inputs have updated contents: C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\packages\flutter_tools\lib\src\build_system\targets\common.dart,D:\a\InkGuru\InkGuru\.dart_tool\flutter_build\2d6dad7d14a3dc74ac13a44de38234f1\app.dill,C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\bin\cache\engine.stamp,C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\bin\cache\engine.stamp,C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\bin\cache\engine.stamp, InvalidatedReasonKind.outputSetAddition: The following outputs were added to the output set: D:\a\InkGuru\InkGuru\.dart_tool\flutter_build\2d6dad7d14a3dc74ac13a44de38234f1\app.so}
+[   +4 ms]   [   +4 ms] targetingApplePlatform = false
+[        ]   [        ] extractAppleDebugSymbols = true
+[        ]   [        ] targetingAndroidPlatform = false
+[        ]   [        ] Will strip AOT snapshot during build.
+[   +2 ms]   [   +3 ms] executing: C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\bin\cache\artifacts\engine\windows-x64-release\gen_snapshot --deterministic --snapshot_kind=app-aot-elf --elf=D:\a\InkGuru\InkGuru\.dart_tool\flutter_build\2d6dad7d14a3dc74ac13a44de38234f1\app.so --strip D:\a\InkGuru\InkGuru\.dart_tool\flutter_build\2d6dad7d14a3dc74ac13a44de38234f1\app.dill
+[+15119 ms]   [+15119 ms] aot_elf_release: Complete
+[  +47 ms]   [  +47 ms] windows_aot_bundle: Starting due to {InvalidatedReasonKind.inputChanged: The following inputs have updated contents: D:\a\InkGuru\InkGuru\.dart_tool\flutter_build\2d6dad7d14a3dc74ac13a44de38234f1\app.so, InvalidatedReasonKind.outputSetAddition: The following outputs were added to the output set: D:\a\InkGuru\InkGuru\build\windows\app.so}
+[   +4 ms]   [   +4 ms] windows_aot_bundle: Complete
+[  +50 ms]   [  +50 ms] release_bundle_windows-x64_assets: Starting due to {}
+[ +124 ms]   [ +123 ms] Manifest contained wildcard assets. Inserting missing file into build graph to force rerun. for more information see #56466.
+[  +12 ms]   [  +12 ms] impellerc command: [C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\bin\cache\artifacts\engine\windows-x64\impellerc.exe, --sksl, --runtime-stage-gles, --runtime-stage-gles3, --runtime-stage-vulkan, --iplr, --sl=D:\a\InkGuru\InkGuru\build\flutter_assets\shaders/ink_sparkle.frag, --spirv=D:\a\InkGuru\InkGuru\build\flutter_assets\shaders/ink_sparkle.frag.spirv, --input=C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\packages\flutter\lib\src\material\shaders\ink_sparkle.frag, --input-type=frag, --include=C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\packages\flutter\lib\src\material\shaders, --include=C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\bin\cache\artifacts\engine\windows-x64\shader_lib]
+[        ]   [   +1 ms] impellerc command: [C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\bin\cache\artifacts\engine\windows-x64\impellerc.exe, --sksl, --runtime-stage-gles, --runtime-stage-gles3, --runtime-stage-vulkan, --iplr, --sl=D:\a\InkGuru\InkGuru\build\flutter_assets\shaders/stretch_effect.frag, --spirv=D:\a\InkGuru\InkGuru\build\flutter_assets\shaders/stretch_effect.frag.spirv, --input=C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\packages\flutter\lib\src\material\shaders\stretch_effect.frag, --input-type=frag, --include=C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\packages\flutter\lib\src\material\shaders, --include=C:\hostedtoolcache\windows\flutter\stable-3.44.8-x64\flutter\bin\cache\artifacts\engine\windows-x64\shader_lib]
+[ +753 ms]   [ +753 ms] release_bundle_windows-x64_assets: Complete
+[  +73 ms]   [  +73 ms] Persisting file store
+[  +17 ms]   [  +17 ms] Done persisting file store
+[  +31 ms]   [  +31 ms] build succeeded.
+[   +6 ms]   [   +6 ms] "flutter assemble" took 42,576ms.
+[   +6 ms]   [   +6 ms] Running 1 shutdown hook
+[        ]   [        ] Shutdown hooks complete
+[        ]   [        ] exiting with code 0
+[  +53 ms]   Building Custom Rule D:/a/InkGuru/InkGuru/windows/flutter/CMakeLists.txt
+[  +45 ms] FinalizeBuildStatus:
+[        ]   Deleting file "x64\Release\flutter_assemble\flutter_assemble.tlog\unsuccessfulbuild".
+[        ]   Touching "x64\Release\flutter_assemble\flutter_assemble.tlog\flutter_assemble.lastbuildstate".
+[        ] Done Building Project "D:\a\InkGuru\InkGuru\build\windows\x64\flutter\flutter_assemble.vcxproj" (default targets).
+[   +6 ms] PrepareForBuild:
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "D:\a\InkGuru\InkGuru\build\windows\x64\flutter\Release\".
+[        ]   Creating directory "flutter_wrapper_app.dir\Release\flutter_.2F434B8F.tlog\".
+[   +1 ms] InitializeBuildStatus:
+[        ]   Creating "flutter_wrapper_app.dir\Release\flutter_.2F434B8F.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "flutter_wrapper_app.dir\Release\flutter_.2F434B8F.tlog\unsuccessfulbuild".
+[  +26 ms] CustomBuild:
+[        ]   Building Custom Rule D:/a/InkGuru/InkGuru/windows/flutter/CMakeLists.txt
+[  +95 ms] ClCompile:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Enterprise\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /ID:\a\InkGuru\InkGuru\windows\flutter\ephemeral\cpp_client_wrapper\include /ID:\a\InkGuru\InkGuru\windows\flutter\ephemeral /nologo /W4 /WX /diagnostics:column /O2 /Ob2 /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D _HAS_EXCEPTIONS=0 /D UNICODE /D _UNICODE /D "CMAKE_INTDIR=\"Release\"" /EHsc /MD /GR /std:c++17 /Fo"flutter_wrapper_app.dir\Release\\" /Fd"D:\a\InkGuru\InkGuru\build\windows\x64\flutter\Release\flutter_wrapper_app.pdb" /external:W4 /TP /wd4100 /errorReport:queue D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc
+[  +44 ms]   core_implementations.cc
+[+8159 ms]   standard_codec.cc
+[+1171 ms]   flutter_engine.cc
+[+10571 ms]   flutter_view_controller.cc
+[+1080 ms]   Generating Code...
+[+2821 ms] Lib:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Enterprise\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\Lib.exe /OUT:"D:\a\InkGuru\InkGuru\build\windows\x64\flutter\Release\flutter_wrapper_app.lib" /NOLOGO /MACHINE:X64  /machine:x64 flutter_wrapper_app.dir\Release\core_implementations.obj
+[        ]   flutter_wrapper_app.dir\Release\standard_codec.obj
+[        ]   flutter_wrapper_app.dir\Release\flutter_engine.obj
+[        ]   flutter_wrapper_app.dir\Release\flutter_view_controller.obj
+[ +237 ms]   flutter_wrapper_app.vcxproj -> D:\a\InkGuru\InkGuru\build\windows\x64\flutter\Release\flutter_wrapper_app.lib
+[  +15 ms] FinalizeBuildStatus:
+[        ]   Deleting file "flutter_wrapper_app.dir\Release\flutter_.2F434B8F.tlog\unsuccessfulbuild".
+[        ]   Touching "flutter_wrapper_app.dir\Release\flutter_.2F434B8F.tlog\flutter_wrapper_app.lastbuildstate".
+[        ] Done Building Project "D:\a\InkGuru\InkGuru\build\windows\x64\flutter\flutter_wrapper_app.vcxproj" (default targets).
+[  +27 ms] Project "D:\a\InkGuru\InkGuru\build\windows\x64\ALL_BUILD.vcxproj" (3) is building "D:\a\InkGuru\InkGuru\build\windows\x64\flutter\flutter_wrapper_plugin.vcxproj" (6) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "flutter_wrapper_plugin.dir\Release\flutter_.C9DC438C.tlog\".
+[        ] InitializeBuildStatus:
+[        ]   Creating "flutter_wrapper_plugin.dir\Release\flutter_.C9DC438C.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "flutter_wrapper_plugin.dir\Release\flutter_.C9DC438C.tlog\unsuccessfulbuild".
+[  +26 ms] CustomBuild:
+[        ]   Building Custom Rule D:/a/InkGuru/InkGuru/windows/flutter/CMakeLists.txt
+[  +39 ms] ClCompile:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Enterprise\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /ID:\a\InkGuru\InkGuru\windows\flutter\ephemeral\cpp_client_wrapper\include /ID:\a\InkGuru\InkGuru\windows\flutter\ephemeral /nologo /W4 /WX /diagnostics:column /O2 /Ob2 /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D _HAS_EXCEPTIONS=0 /D UNICODE /D _UNICODE /D "CMAKE_INTDIR=\"Release\"" /EHsc /MD /GR /std:c++17 /Fo"flutter_wrapper_plugin.dir\Release\\" /Fd"D:\a\InkGuru\InkGuru\build\windows\x64\flutter\Release\flutter_wrapper_plugin.pdb" /external:W4 /TP /wd4100 /errorReport:queue D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc
+[  +37 ms]   core_implementations.cc
+[+1025 ms]   standard_codec.cc
+[+1176 ms]   plugin_registrar.cc
+[ +647 ms]   Generating Code...
+[+1932 ms] Lib:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Enterprise\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\Lib.exe /OUT:"D:\a\InkGuru\InkGuru\build\windows\x64\flutter\Release\flutter_wrapper_plugin.lib" /NOLOGO /MACHINE:X64  /machine:x64 flutter_wrapper_plugin.dir\Release\core_implementations.obj
+[        ]   flutter_wrapper_plugin.dir\Release\standard_codec.obj
+[        ]   flutter_wrapper_plugin.dir\Release\plugin_registrar.obj
+[  +61 ms]   flutter_wrapper_plugin.vcxproj -> D:\a\InkGuru\InkGuru\build\windows\x64\flutter\Release\flutter_wrapper_plugin.lib
+[  +10 ms] FinalizeBuildStatus:
+[        ]   Deleting file "flutter_wrapper_plugin.dir\Release\flutter_.C9DC438C.tlog\unsuccessfulbuild".
+[        ]   Touching "flutter_wrapper_plugin.dir\Release\flutter_.C9DC438C.tlog\flutter_wrapper_plugin.lastbuildstate".
+[        ] Done Building Project "D:\a\InkGuru\InkGuru\build\windows\x64\flutter\flutter_wrapper_plugin.vcxproj" (default targets).
+[  +81 ms] Project "D:\a\InkGuru\InkGuru\build\windows\x64\ALL_BUILD.vcxproj" (3) is building "D:\a\InkGuru\InkGuru\build\windows\x64\runner\inkguru.vcxproj" (7) on node 1 (default targets).
+[        ] Project "D:\a\InkGuru\InkGuru\build\windows\x64\runner\inkguru.vcxproj" (7) is building "D:\a\InkGuru\InkGuru\build\windows\x64\plugins\pdfx\pdfx_plugin.vcxproj" (8) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "D:\a\InkGuru\InkGuru\build\windows\x64\plugins\pdfx\Release\".
+[        ]   Creating directory "pdfx_plugin.dir\Release\pdfx_plugin.tlog\".
+[        ] InitializeBuildStatus:
+[        ]   Creating "pdfx_plugin.dir\Release\pdfx_plugin.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "pdfx_plugin.dir\Release\pdfx_plugin.tlog\unsuccessfulbuild".
+[  +26 ms] CustomBuild:
+[        ]   Building Custom Rule D:/a/InkGuru/InkGuru/windows/flutter/ephemeral/.plugin_symlinks/pdfx/windows/CMakeLists.txt
+[  +40 ms] ClCompile:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Enterprise\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /ID:\a\InkGuru\InkGuru\windows\flutter\ephemeral /ID:\a\InkGuru\InkGuru\windows\flutter\ephemeral\cpp_client_wrapper\include /nologo /W4 /WX /diagnostics:column /O2 /Ob2 /D _WINDLL /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D _HAS_EXCEPTIONS=0 /D FLUTTER_PLUGIN_IMPL /D UNICODE /D _UNICODE /D "CMAKE_INTDIR=\"Release\"" /D pdfx_plugin_EXPORTS /EHsc /MD /GR /std:c++17 /Fo"pdfx_plugin.dir\Release\\" /Fd"pdfx_plugin.dir\Release\vc145.pdb" /external:W0 /TP /wd4100 /errorReport:queue  /external:I "D:/a/InkGuru/InkGuru/build/windows/x64/pdfium-src/include" /external:I "D:/a/InkGuru/InkGuru/build/windows/x64/pdfium-src/include/cpp" D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\.plugin_symlinks\pdfx\windows\pdfx.cpp D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\.plugin_symlinks\pdfx\windows\pdfx_plugin.cpp
+[  +40 ms]   pdfx.cpp
+[+2583 ms]   pdfx_plugin.cpp
+[+1761 ms]   Generating Code...
+[+1724 ms] Link:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Enterprise\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\link.exe /OUT:"D:\a\InkGuru\InkGuru\build\windows\x64\plugins\pdfx\Release\pdfx_plugin.dll" /INCREMENTAL:NO /NOLOGO "..\..\pdfium-src\x64\lib\pdfium.dll.lib" ..\..\flutter\Release\flutter_wrapper_plugin.lib D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\flutter_windows.dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"D:/a/InkGuru/InkGuru/build/windows/x64/plugins/pdfx/Release/pdfx_plugin.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/a/InkGuru/InkGuru/build/windows/x64/plugins/pdfx/Release/pdfx_plugin.lib" /MACHINE:X64  /machine:x64 /DLL pdfx_plugin.dir\Release\pdfx.obj
+[        ]   pdfx_plugin.dir\Release\pdfx_plugin.obj
+[+2215 ms]      Creating library D:/a/InkGuru/InkGuru/build/windows/x64/plugins/pdfx/Release/pdfx_plugin.lib and object D:/a/InkGuru/InkGuru/build/windows/x64/plugins/pdfx/Release/pdfx_plugin.exp
+[ +134 ms]   pdfx_plugin.vcxproj -> D:\a\InkGuru\InkGuru\build\windows\x64\plugins\pdfx\Release\pdfx_plugin.dll
+[  +10 ms] FinalizeBuildStatus:
+[        ]   Deleting file "pdfx_plugin.dir\Release\pdfx_plugin.tlog\unsuccessfulbuild".
+[        ]   Touching "pdfx_plugin.dir\Release\pdfx_plugin.tlog\pdfx_plugin.lastbuildstate".
+[        ] Done Building Project "D:\a\InkGuru\InkGuru\build\windows\x64\plugins\pdfx\pdfx_plugin.vcxproj" (default targets).
+[  +25 ms] Project "D:\a\InkGuru\InkGuru\build\windows\x64\runner\inkguru.vcxproj" (7) is building "D:\a\InkGuru\InkGuru\build\windows\x64\plugins\record_windows\record_windows_plugin.vcxproj" (9) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "D:\a\InkGuru\InkGuru\build\windows\x64\plugins\record_windows\Release\".
+[        ]   Creating directory "record_windows_plugin.dir\Release\record_w.BC7B3A68.tlog\".
+[        ] InitializeBuildStatus:
+[        ]   Creating "record_windows_plugin.dir\Release\record_w.BC7B3A68.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "record_windows_plugin.dir\Release\record_w.BC7B3A68.tlog\unsuccessfulbuild".
+[  +25 ms] CustomBuild:
+[        ]   Building Custom Rule D:/a/InkGuru/InkGuru/windows/flutter/ephemeral/.plugin_symlinks/record_windows/windows/CMakeLists.txt
+[  +40 ms] ClCompile:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Enterprise\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /ID:\a\InkGuru\InkGuru\windows\flutter\ephemeral /ID:\a\InkGuru\InkGuru\windows\flutter\ephemeral\cpp_client_wrapper\include /nologo /W4 /WX /diagnostics:column /O2 /Ob2 /D _WINDLL /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D _HAS_EXCEPTIONS=0 /D FLUTTER_PLUGIN_IMPL /D UNICODE /D _UNICODE /D "CMAKE_INTDIR=\"Release\"" /D record_windows_plugin_EXPORTS /EHsc /MD /GR /std:c++17 /Fo"record_windows_plugin.dir\Release\\" /Fd"record_windows_plugin.dir\Release\vc145.pdb" /external:W4 /TP /wd4100 /errorReport:queue D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\record_windows_plugin_c_api.cpp D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\record_windows_plugin.cpp D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\record.cpp D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\record_readercallback.cpp D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\record_iunknown.cpp D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\record_mediatype.cpp
+[  +36 ms]   record_windows_plugin_c_api.cpp
+[+2828 ms]   record_windows_plugin.cpp
+[+1972 ms]   record.cpp
+[+1485 ms]   record_readercallback.cpp
+[+1419 ms]   record_iunknown.cpp
+[+1258 ms]   record_mediatype.cpp
+[+1333 ms]   Generating Code...
+[+2559 ms] Link:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Enterprise\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\link.exe /OUT:"D:\a\InkGuru\InkGuru\build\windows\x64\plugins\record_windows\Release\record_windows_plugin.dll" /INCREMENTAL:NO /NOLOGO ..\..\flutter\Release\flutter_wrapper_plugin.lib dxva2.lib evr.lib mf.lib mfplat.lib mfplay.lib mfreadwrite.lib mfuuid.lib Shlwapi.lib D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\flutter_windows.dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"D:/a/InkGuru/InkGuru/build/windows/x64/plugins/record_windows/Release/record_windows_plugin.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/a/InkGuru/InkGuru/build/windows/x64/plugins/record_windows/Release/record_windows_plugin.lib" /MACHINE:X64  /machine:x64 /DLL record_windows_plugin.dir\Release\record_windows_plugin_c_api.obj
+[        ]   record_windows_plugin.dir\Release\record_windows_plugin.obj
+[        ]   record_windows_plugin.dir\Release\record.obj
+[        ]   record_windows_plugin.dir\Release\record_readercallback.obj
+[        ]   record_windows_plugin.dir\Release\record_iunknown.obj
+[        ]   record_windows_plugin.dir\Release\record_mediatype.obj
+[ +827 ms]      Creating library D:/a/InkGuru/InkGuru/build/windows/x64/plugins/record_windows/Release/record_windows_plugin.lib and object D:/a/InkGuru/InkGuru/build/windows/x64/plugins/record_windows/Release/record_windows_plugin.exp
+[  +94 ms]   record_windows_plugin.vcxproj -> D:\a\InkGuru\InkGuru\build\windows\x64\plugins\record_windows\Release\record_windows_plugin.dll
+[   +7 ms] FinalizeBuildStatus:
+[        ]   Deleting file "record_windows_plugin.dir\Release\record_w.BC7B3A68.tlog\unsuccessfulbuild".
+[        ]   Touching "record_windows_plugin.dir\Release\record_w.BC7B3A68.tlog\record_windows_plugin.lastbuildstate".
+[        ] Done Building Project "D:\a\InkGuru\InkGuru\build\windows\x64\plugins\record_windows\record_windows_plugin.vcxproj" (default targets).
+[   +9 ms] PrepareForBuild:
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "D:\a\InkGuru\InkGuru\build\windows\x64\runner\Release\".
+[        ]   Creating directory "inkguru.dir\Release\inkguru.tlog\".
+[   +1 ms] InitializeBuildStatus:
+[        ]   Creating "inkguru.dir\Release\inkguru.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "inkguru.dir\Release\inkguru.tlog\unsuccessfulbuild".
+[  +25 ms] CustomBuild:
+[        ]   Building Custom Rule D:/a/InkGuru/InkGuru/windows/runner/CMakeLists.txt
+[  +45 ms] ClCompile:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Enterprise\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /ID:\a\InkGuru\InkGuru\windows /ID:\a\InkGuru\InkGuru\windows\flutter\ephemeral /ID:\a\InkGuru\InkGuru\windows\flutter\ephemeral\cpp_client_wrapper\include /ID:\a\InkGuru\InkGuru\windows\flutter\ephemeral\.plugin_symlinks\pdfx\windows\include /ID:\a\InkGuru\InkGuru\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\include /nologo /W4 /WX /diagnostics:column /O2 /Ob2 /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D _HAS_EXCEPTIONS=0 /D "FLUTTER_VERSION=\"1.0.0+1\"" /D FLUTTER_VERSION_MAJOR=1 /D FLUTTER_VERSION_MINOR=0 /D FLUTTER_VERSION_PATCH=0 /D FLUTTER_VERSION_BUILD=1 /D NOMINMAX /D UNICODE /D _UNICODE /D "CMAKE_INTDIR=\"Release\"" /EHsc /MD /GR /std:c++17 /Fo"inkguru.dir\Release\\" /Fd"inkguru.dir\Release\vc145.pdb" /external:W4 /TP /wd4100 /errorReport:queue D:\a\InkGuru\InkGuru\windows\runner\flutter_window.cpp D:\a\InkGuru\InkGuru\windows\runner\main.cpp D:\a\InkGuru\InkGuru\windows\runner\utils.cpp D:\a\InkGuru\InkGuru\windows\runner\win32_window.cpp D:\a\InkGuru\InkGuru\windows\flutter\generated_plugin_registrant.cc
+[  +37 ms]   flutter_window.cpp
+[ +927 ms]   main.cpp
+[ +884 ms]   utils.cpp
+[ +898 ms]   win32_window.cpp
+[+1051 ms]   generated_plugin_registrant.cc
+[ +296 ms]   Generating Code...
+[ +434 ms] ResourceCompile:
+[        ]   C:\Program Files (x86)\Windows Kits\10\bin\10.0.26100.0\x64\rc.exe /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D _HAS_EXCEPTIONS=0 /D "FLUTTER_VERSION=\\\"1.0.0+1\\\"" /D FLUTTER_VERSION_MAJOR=1 /D FLUTTER_VERSION_MINOR=0 /D FLUTTER_VERSION_PATCH=0 /D FLUTTER_VERSION_BUILD=1 /D NOMINMAX /D UNICODE /D _UNICODE /D "CMAKE_INTDIR=\\\"Release\\\"" /l"0x0409" /ID:\a\InkGuru\InkGuru\windows /ID:\a\InkGuru\InkGuru\windows\flutter\ephemeral /ID:\a\InkGuru\InkGuru\windows\flutter\ephemeral\cpp_client_wrapper\include /ID:\a\InkGuru\InkGuru\windows\flutter\ephemeral\.plugin_symlinks\pdfx\windows\include /ID:\a\InkGuru\InkGuru\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\include /nologo /fo"inkguru.dir\Release\Runner.res" D:\a\InkGuru\InkGuru\windows\runner\Runner.rc 
+[ +277 ms] Link:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Enterprise\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\link.exe /OUT:"D:\a\InkGuru\InkGuru\build\windows\x64\runner\Release\inkguru.exe" /INCREMENTAL:NO /NOLOGO ..\flutter\Release\flutter_wrapper_app.lib dwmapi.lib ..\plugins\pdfx\Release\pdfx_plugin.lib ..\plugins\record_windows\Release\record_windows_plugin.lib D:\a\InkGuru\InkGuru\windows\flutter\ephemeral\flutter_windows.dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\a\InkGuru\InkGuru\windows\runner\runner.exe.manifest /PDB:"D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/inkguru.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /IMPLIB:"D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/inkguru.lib" /MACHINE:X64  /machine:x64 inkguru.dir\Release\Runner.res
+[        ]   inkguru.dir\Release\flutter_window.obj
+[        ]   inkguru.dir\Release\main.obj
+[        ]   inkguru.dir\Release\utils.obj
+[        ]   inkguru.dir\Release\win32_window.obj
+[        ]   inkguru.dir\Release\generated_plugin_registrant.obj
+[+1840 ms]   inkguru.vcxproj -> D:\a\InkGuru\InkGuru\build\windows\x64\runner\Release\inkguru.exe
+[   +9 ms] FinalizeBuildStatus:
+[        ]   Deleting file "inkguru.dir\Release\inkguru.tlog\unsuccessfulbuild".
+[        ]   Touching "inkguru.dir\Release\inkguru.tlog\inkguru.lastbuildstate".
+[        ] Done Building Project "D:\a\InkGuru\InkGuru\build\windows\x64\runner\inkguru.vcxproj" (default targets).
+[   +5 ms] PrepareForBuild:
+[        ]   Creating directory "x64\Release\ALL_BUILD\".
+[   +1 ms]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "x64\Release\ALL_BUILD\ALL_BUILD.tlog\".
+[   +1 ms] InitializeBuildStatus:
+[        ]   Creating "x64\Release\ALL_BUILD\ALL_BUILD.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "x64\Release\ALL_BUILD\ALL_BUILD.tlog\unsuccessfulbuild".
+[  +25 ms] CustomBuild:
+[        ]   Building Custom Rule D:/a/InkGuru/InkGuru/windows/CMakeLists.txt
+[  +43 ms] FinalizeBuildStatus:
+[        ]   Deleting file "x64\Release\ALL_BUILD\ALL_BUILD.tlog\unsuccessfulbuild".
+[        ]   Touching "x64\Release\ALL_BUILD\ALL_BUILD.tlog\ALL_BUILD.lastbuildstate".
+[        ] Done Building Project "D:\a\InkGuru\InkGuru\build\windows\x64\ALL_BUILD.vcxproj" (default targets).
+[   +4 ms] PrepareForBuild:
+[        ]   Creating directory "x64\Release\INSTALL\".
+[   +1 ms]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "x64\Release\INSTALL\INSTALL.tlog\".
+[   +1 ms] InitializeBuildStatus:
+[        ]   Creating "x64\Release\INSTALL\INSTALL.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "x64\Release\INSTALL\INSTALL.tlog\unsuccessfulbuild".
+[  +24 ms] CustomBuild:
+[        ]   1>
+[  +20 ms] PostBuildEvent:
+[        ]   setlocal
+[        ]   "C:\Program Files\Microsoft Visual Studio\18\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -DBUILD_TYPE=Release -P cmake_install.cmake
+[        ]   if %errorlevel% neq 0 goto :cmEnd
+[        ]   :cmEnd
+[        ]   endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+[        ]   :cmErrorLevel
+[        ]   exit /b %1
+[        ]   :cmDone
+[        ]   if %errorlevel% neq 0 goto :VCEnd
+[        ]   :VCEnd
+[  +41 ms]   -- Install configuration: "Release"
+[   +1 ms]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/icudtl.dat
+[   +2 ms]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/flutter_windows.dll
+[  +37 ms]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/pdfx_plugin.dll
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/pdfium.dll
+[   +8 ms]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/record_windows_plugin.dll
+[        ]   -- Up-to-date: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/AssetManifest.bin
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/assets
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/assets/benzene.jpg
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/assets/map.jpg
+[   +1 ms]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/assets/math.jpg
+[   +1 ms]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/assets/science.jpg
+[   +1 ms]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/FontManifest.json
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/fonts
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+[   +3 ms]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/NativeAssetsManifest.json
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/NOTICES.Z
+[   +1 ms]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/cupertino_icons
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/cupertino_icons/assets
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Bold.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Regular.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Fraktur-Bold.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Fraktur-Regular.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Bold.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-BoldItalic.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Italic.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Regular.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Math-BoldItalic.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Math-Italic.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_SansSerif-Bold.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_SansSerif-Italic.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_SansSerif-Regular.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Script-Regular.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size1-Regular.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size2-Regular.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size3-Regular.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size4-Regular.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Typewriter-Regular.ttf
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/record_web
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/record_web/assets
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/record_web/assets/js
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/record_web/assets/js/record.fixwebmduration.js
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/packages/record_web/assets/js/record.worklet.js
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/shaders
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/shaders/ink_sparkle.frag
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/flutter_assets/shaders/stretch_effect.frag
+[        ]   -- Installing: D:/a/InkGuru/InkGuru/build/windows/x64/runner/Release/data/app.so
+[  +28 ms] FinalizeBuildStatus:
+[        ]   Deleting file "x64\Release\INSTALL\INSTALL.tlog\unsuccessfulbuild".
+[        ]   Touching "x64\Release\INSTALL\INSTALL.tlog\INSTALL.lastbuildstate".
+[        ] Done Building Project "D:\a\InkGuru\InkGuru\build\windows\x64\INSTALL.vcxproj" (default targets).
+[   +4 ms] Build succeeded.
+[        ]     0 Warning(s)
+[        ]     0 Error(s)
+[        ] Time Elapsed 00:01:45.53
+[  +25 ms] Building Windows application... (completed in 166.6s)
+[   +2 ms] √ Built build\windows\x64\runner\Release\inkguru.exe
+[   +1 ms] "flutter windows" took 168,524ms.
+[   +7 ms] Running 1 shutdown hook
+[   +1 ms] Shutdown hooks complete
+[        ] exiting with code 0
