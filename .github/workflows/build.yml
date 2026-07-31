@@ -17,7 +17,6 @@ jobs:
       - name: Setup Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.32.x'
           channel: 'stable'
           cache: true
 
@@ -33,10 +32,13 @@ jobs:
       - name: Zip Windows Build
         run: |
           $buildPath = "build\windows\x64\runner\Release"
+          if (-Not (Test-Path $buildPath)) {
+            $buildPath = "build\windows\runner\Release"
+          }
           if (Test-Path $buildPath) {
             Compress-Archive -Path "$buildPath\*" -DestinationPath inkguru-windows.zip -Force
           } else {
-            Write-Error "Build output not found at $buildPath"
+            Write-Error "Build output not found at either location."
             exit 1
           }
 
