@@ -3,6 +3,9 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+  desktop_multi_window
+  record_linux
+  screen_capturer_linux
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST

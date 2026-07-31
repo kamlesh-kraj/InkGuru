@@ -1,5 +1,6 @@
 // ignore_for_file: deprecated_member_use
 import 'package:flutter/material.dart';
+import '../hardware/xppen_service.dart';
 
 class CalibrationScreen extends StatefulWidget {
   const CalibrationScreen({super.key});
@@ -35,6 +36,11 @@ class _CalibrationScreenState extends State<CalibrationScreen> {
                 setState(() {
                   _pressureSensitivity = value;
                 });
+              },
+              onChangeEnd: (value) async {
+                // Generate a simple curve array based on sensitivity
+                final curve = List.generate(10, (index) => (index / 9) * value);
+                await XPPenService.setPressureCurve(curve);
               },
             ),
             const SizedBox(height: 32),

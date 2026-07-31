@@ -3,6 +3,10 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+  desktop_multi_window
+  pdfx
+  record_windows
+  screen_capturer_windows
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST
