@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'app_state.dart';
-import 'ui/board_screen.dart';
 import 'ui/project_dashboard.dart';
 
 void main() {
