@@ -28,17 +28,8 @@ jobs:
       - name: Zip Windows Build
         run: Compress-Archive -Path build\windows\x64\runner\Release\* -DestinationPath inkguru-windows.zip
 
-      - name: Build Web App
-        run: flutter build web
-
       - name: Upload Windows Build Artifact
         uses: actions/upload-artifact@v4
         with:
           name: inkguru-windows-app
           path: inkguru-windows.zip
-          
-      - name: Upload Web Build Artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: inkguru-web-app
-          path: build/web/
