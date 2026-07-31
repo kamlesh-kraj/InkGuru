@@ -26,6 +26,24 @@ jobs:
       - name: Install dependencies
         run: flutter pub get
 
+      - name: Patch pdfx CMake
+        run: |
+          $cachePath = if ($env:PUB_CACHE) { $env:PUB_CACHE } else { "$env:LOCALAPPDATA\Pub\Cache" }
+          $pathsToSearch = @($cachePath)
+          if ($env:FLUTTER_ROOT) { $pathsToSearch += "$env:FLUTTER_ROOT\.pub-cache" }
+          foreach ($path in $pathsToSearch) {
+            Write-Host "Searching in $path"
+            if (Test-Path $path) {
+              $files = Get-ChildItem -Path $path -Filter "DownloadProject.CMakeLists.cmake.in" -Recurse -ErrorAction SilentlyContinue
+              foreach ($f in $files) {
+                $content = Get-Content $f.FullName
+                $content = $content -replace 'VERSION 2.8.12', 'VERSION 3.5'
+                $content | Set-Content $f.FullName
+                Write-Host "Patched $($f.FullName)"
+              }
+            }
+          }
+
       - name: Analyze code
         run: flutter analyze --no-fatal-infos
 

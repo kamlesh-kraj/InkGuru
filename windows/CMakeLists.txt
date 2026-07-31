@@ -1,4 +1,5 @@
 # Project-level configuration.
+set(CMAKE_POLICY_VERSION_MINIMUM "3.5" CACHE STRING "")
 cmake_minimum_required(VERSION 3.14)
 project(inkguru LANGUAGES CXX)
 
@@ -106,3 +107,6 @@ install(DIRECTORY "${PROJECT_BUILD_DIR}/${FLUTTER_ASSET_DIR_NAME}"
 install(FILES "${AOT_LIBRARY}" DESTINATION "${INSTALL_BUNDLE_DATA_DIR}"
   CONFIGURATIONS Profile;Release
   COMPONENT Runtime)
+
+
+set(PDFIUM_VERSION "4638" CACHE STRING "")
