@@ -26,13 +26,10 @@ class TopBar extends StatelessWidget {
     );
   }
 
-  Future<void> _openPresenterMode() async {
-    final window = await DesktopMultiWindow.createWindow('{}');
-    window
-      ..setFrame(const Offset(0, 0) & const Size(1280, 720))
-      ..center()
-      ..setTitle('InkGuru - Projector View')
-      ..show();
+  Future<void> _openPresenterMode(BuildContext context) async {
+    ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(content: Text('Presenter Mode (Multi-Window) is currently disabled.')),
+    );
   }
 
   Future<void> _importSlide(BuildContext context) async {
@@ -230,7 +227,7 @@ class TopBar extends StatelessWidget {
           Row(
             children: [
               ElevatedButton.icon(
-                onPressed: _openPresenterMode,
+                onPressed: () => _openPresenterMode(context),
                 icon: const Icon(Icons.cast),
                 label: const Text('Present'),
                 style: ElevatedButton.styleFrom(
