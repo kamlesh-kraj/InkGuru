@@ -30,19 +30,27 @@ jobs:
         run: flutter analyze --no-fatal-infos
 
       - name: Build Windows App
-        run: flutter build windows --release -v > build_log.txt 2>&1
-        continue-on-error: true
+        run: |
+          $process = Start-Process -FilePath "flutter" -ArgumentList "build", "windows", "--release", "-v" -RedirectStandardOutput "build_log.txt" -RedirectStandardError "build_err.txt" -PassThru -Wait
+          if ($process.ExitCode -ne 0) {
+            Write-Output "### Build Failed" | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append
+            Write-Output '```text' | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append
+            Get-Content build_log.txt -Tail 500 | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append
+            Get-Content build_err.txt -Tail 500 | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append
+            Write-Output '```' | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append
+          }
 
       - name: Push log to debug branch
+        if: always()
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git checkout -b debug-logs
-          git add build_log.txt
+          git add build_log.txt build_err.txt
           git commit -m "Upload build log"
           git push origin debug-logs --force
 
-      - name: Check Build Status
+      - name: Fail if build failed
         run: |
           if (-Not (Test-Path "build\windows\x64\runner\Release\inkguru.exe") -and -Not (Test-Path "build\windows\runner\Release\inkguru.exe")) { Write-Error "Executable not found"; exit 1 }
 
